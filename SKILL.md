@@ -1,14 +1,16 @@
 ---
-name: seedance-20
+name: seedance-20-ytdx
 description: "This skill should be used when creating, improving, or troubleshooting Seedance 2.0 video on any surface - Dreamina, Jimeng, CapCut, Doubao, Volcengine/Ark, BytePlus, Runway's Seedance route, fal, or third-party provider/router surfaces such as EvoLink, OpenRouter, Kie.ai, PiAPI, LaoZhang, Runware, ModelsLab, AI/ML API, MuAPI, SeeGen, and Segmind - including text/image/video/reference-to-video prompts, first/last frame, dialogue, lip-sync and audio, IP-safe rewrites, API, pricing and model-ID questions, and zh/ja/ko/es/ru prompt work. Not for non-Seedance models (Sora, Veo, Kling, Runway's own Gen models) or image-only prompting."
 license: MIT
 user-invocable: true
 tags: [seedance]
 metadata:
-  version: "6.7.0"
+  version: "6.7.0-ytdx.1"
 ---
 
-# seedance-20
+# seedance-20-ytdx
+
+> **YTDX fork 版**（2026-08-22 接管：融摄影指导参考，与 GitHub 原版 Emily2040/seedance-2.0 区分）
 
 Seedance 2.0 operating loop for agent-directed video work. Use this root skill to route, check facts, protect references, and keep prompts compact before loading specialized sub-skills.
 
